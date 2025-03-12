@@ -3,8 +3,13 @@ title: 跨境@凯
 SEOTitle: 跨境@凯 | akaisail.com
 header-img: img/home-bg.jpg
 email: akaisail369@gmail.com
+<<<<<<< HEAD
 description: "这里是 跨境@凯 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+=======
+description: "跨境@凯：探索全球市场的边界，与你分享精彩的跨境故事 | 成为一个有态度的全球公民"
+keyword: "跨境电商, 全球化, 国际贸易, 文化交流, 跨境旅行, 创新与发展, 店铺管理, 营销策略"
+>>>>>>> a5784bd53c9ce02e8f75f97aa58e4a16408bb63f
 url: "https://akaisail.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -74,7 +79,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "探索全球跨境电商与文化，分享个人见解与实用经验 <br> 致力于让每一个梦想跨越国界"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -93,3 +98,7 @@ page-mathjax: false
 #  [
 #    { title: "乱序（Midare）", href: "http://mida.re/" },
 #  ]
+<<<<<<< HEAD
+=======
+
+>>>>>>> a5784bd53c9ce02e8f75f97aa58e4a16408bb63f
