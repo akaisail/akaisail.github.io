@@ -23,6 +23,7 @@
                         <li>
                             <a href="{{ site.baseurl }}/">首页</a>
                         </li>
+                        {% assign sorted_pages = site.pages | sort: 'order' %}
                         {% for page in site.pages %}
                         {% if page.title and page.hide-in-nav != true %}
                         <li>
