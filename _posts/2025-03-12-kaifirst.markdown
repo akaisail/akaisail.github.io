@@ -7,7 +7,7 @@ author:     kai
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    选品
+    - 选品
 ---
 
 ### 如何用“上帝视角”挖需求
